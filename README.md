@@ -1,1 +1,1 @@
-PlatziConf
+Conference mobile app
